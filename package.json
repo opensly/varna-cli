@@ -1,0 +1,27 @@
+{
+  "name": "varna-cli",
+  "version": "1.0.0",
+  "description": "A colorful CLI tool for styled terminal output.
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "cli",
+    "color",
+    "terminal",
+    "styling",
+    "ansi",
+    "text-formatting",
+    "varna",
+    "chalk",
+    "colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensly/varna-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/opensly/varna-cli/issues"
+  },
+  "author": "Lakshmikanth Vallampati <kanth.vallampati@gmail.com>",
+  "license": "MIT",
+}
